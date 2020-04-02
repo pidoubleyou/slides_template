@@ -1,9 +1,7 @@
 {
   "name": "reveal.js",
   "version": "3.9.2",
-  "description": "The HTML Presentation Framework",
-  "homepage": "http://revealjs.com",
-  "subdomain": "revealjs",
+  "description": "Slides template based on revealjs",
   "main": "js/reveal.js",
   "scripts": {
     "test": "grunt test",
@@ -11,13 +9,11 @@
     "build": "grunt"
   },
   "author": {
-    "name": "Hakim El Hattab",
-    "email": "hakim.elhattab@gmail.com",
-    "web": "http://hakim.se"
+    "name": "pidoubleyou"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/hakimel/reveal.js.git"
+    "url": "git@github.com:pidoubleyou/slides_template.git"
   },
   "engines": {
     "node": ">=9.0.0"
